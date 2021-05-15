@@ -1,1 +1,1 @@
-# Client_segmentation
+# Segmentation of a bank's clients
